@@ -1,4 +1,3 @@
-# Diploma-Score-Grade.9
 <!DOCTYPE html>
 <html lang="en">
 <head>
